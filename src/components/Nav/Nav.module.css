@@ -1,0 +1,14 @@
+/* .container {
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    padding: 2%;
+} */
+
+.containLetter {
+    text-align: center;
+}
+.containLetter img {
+    width: 30%;
+    cursor: pointer;
+}
